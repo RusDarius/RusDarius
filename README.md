@@ -22,6 +22,7 @@ I am a 3rd year student at UTCN, ETTI.
 - 📫 How to reach me:
 
   email adress: rusdariusteodor@gmail.com
+  
   phone number: 0755539816
   
 -->
