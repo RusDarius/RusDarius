@@ -8,10 +8,10 @@ I am a 3rd year student at UTCN, ETTI.
 - 🔭 I’m currently working on improving my programming skills. 
         This, in a very broad way, means everything from algorithmic thinking for diverse problems to different programming languages and frameworks.
 
-        Because of my particular interest in games, interfaces and functional programming I created a few simple games such as Snake (basic JS), Pong (Java), MazeGame (Java), Sudoku(Java). 
-        Currently I'm working on better versions and other games such as a platformer.
+    Because of my particular interest in games, interfaces and functional programming I created a few simple games such as Snake (basic JS), Pong (Java), MazeGame (Java),              Sudoku(Java). 
+    Currently I'm working on better versions and other games such as a platformer.
 
-        In terms of problem solving, I regularly solve coding problems on CodeWars, an online coding practice site for all programmers where you can learn various programming languages and develop a good understanding of algorithms and problem solving.
+    In terms of problem solving, I regularly solve coding problems on CodeWars, an online coding practice site for all programmers where you can learn various programming              languages and develop a good understanding of algorithms and problem solving.
 
 - 🌱 I’m currently trying to be more advanced in known languages (Java, JavaScript, C/C++, SQL, HTML/CSS) and learn and master some new ones (Python) or learn popular frameworks (Spring, React).
 
