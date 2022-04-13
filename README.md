@@ -14,7 +14,7 @@ I am a 3rd year student at UTCN, ETTI.
     In terms of problem solving, I regularly solve coding problems on CodeWars, an online coding practice site for all programmers where you can learn various programming              languages and develop a good understanding of algorithms and problem solving.
     This is the link to my profile there https://www.codewars.com/users/Barnnabass.
 
-- 🌱 I’m currently trying to be more advanced in known languages (Java, JavaScript, C/C++, SQL, HTML/CSS) and learn and master some new ones (Python) or learn popular frameworks (Spring, React).
+- 🌱 I’m currently trying to be more advanced in known languages (Java/C#, JavaScript, C/C++, SQL, HTML/CSS) and learn and master some new ones (Python) or learn popular frameworks (Spring, React).
 
 - 👯 I’m looking to collaborate on big and complex projects to further improve my programming skills. 
         Internships are a current goal and/or part-time after a good introduction to the working enviroment and it's requirements.
