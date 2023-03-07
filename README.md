@@ -2,7 +2,7 @@
 
 My name is Darius Teodor Rus 
 
-I am a 3rd year student at UTCN, ETTI.
+I am a 4th year student at UTCN, ETTI.
 
 
 - 🔭 I’m currently working on improving my programming skills. 
